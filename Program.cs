@@ -12,7 +12,8 @@ namespace test2
             // question 2
             // Q2.q2();
 
-            LoopTest.WhileTest();
+            // LoopTest.WhileTest();
+            LoopTest.ForLoopTest();
         }
     }
 }
